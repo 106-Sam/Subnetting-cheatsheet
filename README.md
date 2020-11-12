@@ -32,5 +32,5 @@ _Notes:_
 - Hosts double each increment of CIDR
 - Always subtract 2 from host total:
    
-   Network ID - First Address
+   Network ID - First Address, 
    Broadcast - Last Address
